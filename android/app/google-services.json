@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913991788790",
+    "project_id": "tourism-1a09f",
+    "storage_bucket": "tourism-1a09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913991788790:android:6b1ee803878a58033964d7",
+        "android_client_info": {
+          "package_name": "com.lowman.tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913991788790-un9a271bjub2klvd46fo7ffn9a21i8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxfbF4Fa_S6DRzGuBK6EKj8L8_HhpvK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913991788790-un9a271bjub2klvd46fo7ffn9a21i8ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

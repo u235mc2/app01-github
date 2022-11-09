@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>913991788790-osoqpbqb2t2b86ct6l4od1af3fv0f3kl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.913991788790-osoqpbqb2t2b86ct6l4od1af3fv0f3kl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCs2NUKr7k0AKTyt5pjdqya3Md8_mAJI-c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>913991788790</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lowman.tourism</string>
+	<key>PROJECT_ID</key>
+	<string>tourism-1a09f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tourism-1a09f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:913991788790:ios:33880673772352ac3964d7</string>
+</dict>
+</plist>
